@@ -1,0 +1,30 @@
+
+.calc{
+    background-image: radial-gradient(rgb(14 153 131 / 88%), rgba(3, 73, 74, 0.87));
+}
+.disp{
+    padding-right: 10px;
+    height: 70px;
+    width: auto;
+    background: transparent;
+    text-align: right;
+    font-size: 30px;
+    margin: 15px 10px 10px 10px;
+    color: whitesmoke;
+    background-color: rgba(4, 13, 130, 0.274);
+    
+}
+button{
+    height: 60px;
+    background: transparent;
+    width: 70px;
+}
+.card_{
+    background-image: radial-gradient(rgba(4, 13, 130, 0.274), rgba(225, 8, 8, 0.265));
+    padding: 14px;
+    width: auto;
+}
+.table td{
+    background: none;
+    border: 0;
+}
